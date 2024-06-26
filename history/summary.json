@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/494096ab-0c2a-4ac3-933f-0ffaa1d4ff70-00-2q0n8q7s5x8y1.riker.replit.dev.ico",
     "slug": "replit",
     "status": "down",
-    "uptime": "0.78%",
-    "uptimeDay": "0.78%",
-    "uptimeWeek": "0.78%",
-    "uptimeMonth": "0.78%",
-    "uptimeYear": "0.78%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-26": 1
+      "2024-06-26": 2
     }
   }
 ]
