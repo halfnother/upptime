@@ -3,16 +3,8 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: replit
+    url: https://494096ab-0c2a-4ac3-933f-0ffaa1d4ff70-00-2q0n8q7s5x8y1.riker.replit.dev/
     port: 80
     check: "tcp-ping"
     ipv6: true
